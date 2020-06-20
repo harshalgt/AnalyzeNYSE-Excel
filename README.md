@@ -1,2 +1,2 @@
 # AnalyzeNYSE-Excel
-Udacity Nanodegree Excel project, consisting of Dynamic Dashboards, Financial Modelling and Forecasting 
+Used a data set containing financial performance data from companies listed in NYSE S&P to create an income statement and forecast financial metrics
